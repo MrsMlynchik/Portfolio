@@ -13,7 +13,7 @@ export const projects = [
     description:"BrainWave is a beautiful landing page, designed to promote and highlight the potential of artificial intelligence. It offers an engaging, modern space for showcasing AI technologies and innovations.",
     image: '/images/BrainWave.png',
     tags: ['React', 'TailWind'],
-    source: 'https://jsm-brainwave.com/',
+    source: 'https://mrsmlynchik.github.io/BrainWave/',
     visit: 'https://github.com/MrsMlynchik/BrainWave.git',
     id: 1,
   },
