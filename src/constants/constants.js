@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'EvoGym',
     description: "A beginner-friendly, fully responsive fitness web application built with React and TypeScript.",
-    image: '/images/amazon.png',
+    image: '/images/EvoGym.png',
     tags: ['React', 'TypeScript'],
     source: 'https://gym-typescript-58v.pages.dev/',
     visit: 'https://github.com/MrsMlynchik/gym-typescript.git',
