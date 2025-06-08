@@ -22,11 +22,6 @@ row-gap: 3rem;
     padding-bottom: 0;
   }
   
-  
-  & > div:nth-child(3) {
-    grid-column: span 2;  
-    justify-self: center;  
-  }
 `
 
   
