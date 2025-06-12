@@ -45,7 +45,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About me</SectionTitle>
       <SectionText>
-      Hi, I'm Tanya! I'm 18 years old and originally from Ukraine, but I’ve been living and studying in the Netherlands for almost 3 years now. My journey has been filled with new experiences and challenges that have shaped who I am today. I am constantly looking for opportunities to learn, grow, and bring ideas to life through technology. I believe that through creativity and persistence, I can make a meaningful impact on the world. 
+     Hi, I'm Tanya! My journey into technology has been shaped by diverse experiences since moving from Ukraine to the Netherlands three years ago. I am a passionate and self-driven developer, constantly seeking opportunities to learn, grow, and bring ideas to life through code. I believe that through creativity and persistence, I can build meaningful technological solutions and make a positive impact on the world 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
