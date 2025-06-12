@@ -45,11 +45,11 @@ export const TimeLineData = [
   },
   { 
     year: 2020, 
-    text: 'Began learning JavaScript and set my sights on becoming a freelancer, dreaming of creating impactful web applications.' 
+    text: 'I began learning JavaScript and set my sights on becoming a freelancer. I was excited by the idea of creating impactful, real-world applications.' 
   },
   { 
     year: 2022, 
-    text: 'Took a break to focus on improving my English and Dutch, and make my life in the Netherlands while studying in two schools.' 
+    text: 'I took a break from coding to focus on learning English and Dutch while studying in two schools and adjusting to life in a new country.' 
   },
   { 
     year: 2023, 
